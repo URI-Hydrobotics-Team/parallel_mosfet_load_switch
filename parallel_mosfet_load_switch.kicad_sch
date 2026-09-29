@@ -680,6 +680,16 @@
 				(justify left top)
 			)
 		)
+		(pin "VIN" input
+			(at 151.13 67.31 0)
+			(uuid "b7758821-3422-43d9-ace5-512bb099f2c8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(instances
 			(project "parallel_mosfet_load_switch"
 				(path "/a2710467-b953-4344-a944-54d479239a3d"
